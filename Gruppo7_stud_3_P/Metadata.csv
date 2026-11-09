@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,iPhone 13 Pro,1794214145703,2026-11-09_08-49-05,Europe/Rome,ios,1.68.1,e228b031-ab4a-4aea-99ac-854f8f09b0f9,Accelerometer|Gyroscope|Orientation|Magnetometer|Compass|Annotation|MagnetometerUncalibrated|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10|10|10||10|10|10,false,26.6
