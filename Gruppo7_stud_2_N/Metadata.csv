@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,iPhone 13 mini,1794213939621,2026-11-09_08-45-39,Europe/Rome,ios,1.68.1,202ee76b-46d9-48e9-a138-6ba3d3af2030,Accelerometer|Gyroscope|Orientation|Magnetometer|Compass|Annotation|MagnetometerUncalibrated|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10|10|10||10|10|10,false,27.2
